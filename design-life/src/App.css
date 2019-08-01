@@ -52,6 +52,7 @@ a:visited {
   justify-content: space-around;
   max-width: 100%;
   background-color: #e2e7e9;
+  height: 40px;
 }
 
 .navLink {
